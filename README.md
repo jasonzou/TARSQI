@@ -3,7 +3,7 @@ TARSQI (Temporal Awareness and Reasoning Systems for Question Interpretation)
 
 原官方网站: http://timeml.org/site/tarsqi/index.html
 
-[English](https://github.com/tankle/TARSQI/blob/master/README.en)
+[English](https://github.com/tankle/TARSQI/blob/master/README.en.md)
 
 本项目是TARSQI的一个镜像，由于原始项目貌似没有继续开发（至少官方发给我的是这个）。
 
