@@ -1,6 +1,5 @@
-#TARSQI
-
-##Temporal Awareness and Reasoning Systems for Question Interpretation
+TARSQI (Temporal Awareness and Reasoning Systems for Question Interpretation)
+=============================================================================
 
 原官方网站: http://timeml.org/site/tarsqi/index.html
 
